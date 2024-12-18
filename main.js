@@ -1,6 +1,6 @@
-console.log('Hello World');
+console.log('!!!!!!!!!!!!!!!!');
 function foo(text) {
     return text
 }
 
-console.log(foo('Hello World'));
+console.log(foo('!!!!!!!!!!!!!!!!!!!!!!!!!'));
